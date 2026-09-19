@@ -1,1 +1,2 @@
-<h1>Some other files says hello</h1>
+Some other files says hello
+Hello from FEAT 2
